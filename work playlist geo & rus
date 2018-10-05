@@ -1,0 +1,112 @@
+#EXTM3U
+#EXTINF:-1,rustavi 2
+http://85.118.114.122:8169/udp/226.0.0.1:12345
+#EXTINF:-1,comedy arxhi
+http://85.118.114.122:8169/udp/226.0.0.2:12345
+#EXTINF:-1,GDS
+http://85.118.114.122:8169/udp/226.0.0.25:12345
+#EXTINF:-1,meore arxhi HD
+http://85.118.114.122:8169/udp/226.0.0.15:12345
+#EXTINF:-1,HI tv
+http://85.118.114.122:8169/udp/226.0.0.56:12345
+#EXTINF:-1,HD kino HD
+http://85.118.114.122:8169/udp/226.0.0.58:12345
+#EXTINF:-1,music box
+http://85.118.114.122:8169/udp/226.0.0.111:12345
+#EXTINF:-1,palitra news
+http://85.118.114.122:8169/udp/226.0.0.124:12345
+#EXTINF:-1,tv pirveli
+http://85.118.114.122:8169/udp/226.0.0.126:12345
+#EXTINF:-1,silk universali
+http://85.118.114.122:8169/udp/226.0.0.131:12345
+#EXTM3U
+#EXTINF:-1,112 Украина
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1,360
+http://now2.eaglecdn.com/stream/360tv_360media/index.m3u8
+#EXTINF:-1,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
+#EXTINF:-1,DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:-1,Global Star
+rtmp://stream.globalstar.tv/live/gs
+#EXTINF:-1,Gold TV (Mold)
+http://goldtv.md:1935/live/GOLDTV1.stream_aac/playlist.m3u8
+#EXTINF:-1,HD Media
+http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1,HD Media 3D
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:-1,Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,MTV Mix (Уфа)
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:-1,Most Video TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1,Music Box
+http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
+#EXTINF:-1,Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1,Muzzone
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:-1,NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:-1,NRJ TV
+http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
+#EXTINF:-1,OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1,RADIO MONTE CARLO TV
+http://tv.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1,RU TV
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+#EXTINF:-1,Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1,Москва 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Смайлик ТВ
+http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,ТРЕЙЛЕР ТВ
+http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
+#EXTINF:-1,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1,Юмор TV
+http://live.musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
