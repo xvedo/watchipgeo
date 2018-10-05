@@ -1,0 +1,147 @@
+#EXTM3U
+
+#EXTINF:-1,rustavi 2
+http://85.118.114.122:8169/udp/226.0.0.1:12345
+
+
+#EXTINF:-1,comedy arxhi
+http://85.118.114.122:8169/udp/226.0.0.2:12345
+#EXTINF:-1,komedi arxhi HQ
+http://85.118.114.122:8169/udp/226.0.0.105:12345
+#EXTINF:-1,GDS
+http://85.118.114.122:8169/udp/226.0.0.25:12345
+#EXTINF:-1,GDS HD
+http://85.118.114.122:8169/udp/226.0.0.26:12345
+#EXTINF:-1,GDS
+http://85.118.114.122:8169/udp/226.0.0.25:12345
+#EXTINF:-1,GDS HD
+http://85.118.114.122:8169/udp/226.0.0.26:12345
+#EXTINF:-1,MARAO HD
+http://85.118.114.122:8169/udp/226.0.0.4:12345
+#EXTINF:-1,meore arxhi HD
+http://85.118.114.122:8169/udp/226.0.0.15:12345
+#EXTINF:-1,vinil tv
+http://85.118.114.122:8169/udp/226.0.0.17:12345
+#EXTINF:-1,ertsulovneba
+http://85.118.114.122:8169/udp/226.0.0.20:12345
+#EXTINF:-1,basti-bubi
+http://85.118.114.122:8169/udp/226.0.0.21:12345
+#EXTINF:-1,vip tv  HD
+http://85.118.114.122:8169/udp/226.0.0.22:12345
+#EXTINF:-1,Ragby tvHD
+http://85.118.114.122:8169/udp/226.0.0.30:12345
+#EXTINF:-1,setanta georgia 1  HD
+http://85.118.114.122:8169/udp/226.0.0.32:12345
+#EXTINF:-1,setanta georgia 2 HD
+http://85.118.114.122:8169/udp/226.0.0.33:12345
+#EXTINF:-1,HI tv
+http://85.118.114.122:8169/udp/226.0.0.56:12345
+#EXTINF:-1,HD kino HD
+http://85.118.114.122:8169/udp/226.0.0.58:12345
+#EXTINF:-1,iberia tv
+http://85.118.114.122:8169/udp/226.0.0.104:12345
+#EXTINF:-1,obieqtivi
+http://85.118.114.122:8169/udp/226.0.0.106:12345
+#EXTINF:-1,obieqtivi hq
+http://85.118.114.122:8169/udp/226.0.0.108:12345
+#EXTINF:-1,kavkasia
+http://85.118.114.122:8169/udp/226.0.0.110:12345
+#EXTINF:-1,music box
+http://85.118.114.122:8169/udp/226.0.0.111:12345
+#EXTINF:-1,saperavi tv hd
+http://85.118.114.122:8169/udp/226.0.0.117:12345
+#EXTINF:-1,palitra news
+http://85.118.114.122:8169/udp/226.0.0.124:12345
+#EXTINF:-1,starvizia
+http://85.118.114.122:8169/udp/226.0.0.125:12345
+#EXTINF:-1,tv pirveli
+http://85.118.114.122:8169/udp/226.0.0.126:12345
+#EXTINF:-1,qartli arxi
+http://85.118.114.122:8169/udp/226.0.0.129:12345
+#EXTINF:-1,1 gasartobi
+http://85.118.114.122:8169/udp/226.0.0.130:12345
+#EXTINF:-1,silk universali
+http://85.118.114.122:8169/udp/226.0.0.131:12345
+#EXTINF:-1,ertsulovneba hq
+http://85.118.114.122:8169/udp/226.0.0.132:12345
+#EXTINF:-1,ragby tv hq
+http://85.118.114.122:8169/udp/226.0.0.140:12345
+#EXTINF:-1,MARAO
+http://85.118.114.122:8169/udp/226.0.0.4:12345
+#EXTINF:-1,BATUMI TV
+http://188.93.94.42/batumitv/index.m3u8
+#EXTINF:-1,DARDIMANDI
+http://188.93.94.42/dardimandi/index.m3u8
+#EXTINF:-1,ARTAREA
+http://188.93.94.42/artarea/index.m3u8
+#EXTINF:-1,FOOD TV
+http://188.93.94.42/foodtv/index.m3u8
+#EXTINF:-1,GURIA tv
+http://188.93.94.42/guriatv/index.m3u8
+#EXTINF:-1,TIFLIS TV
+http://188.93.94.42/tiflistv/index.m3u8
+#EXTINF:-1,PK TV
+http://188.93.94.42/pktv/index.m3u8
+#EXTINF:-1,RIONI 1
+http://188.93.94.42/rioni/index.m3u8
+#EXTINF:-1,RIONI 2
+http://188.93.94.42/rioni2/index.m3u8
+#EXTINF:-1,SAPERAVI TV
+http://188.93.94.42/saperavitv/index.m3u8
+#EXTINF:-1,TV24
+http://188.93.94.42/tv24/index.m3u8
+#EXTINF:-1,TV25
+http://188.93.94.42/tv25/index.m3u8
+#EXTINF:-1,Parvana TV
+http://188.93.94.42/parvanatv/index.m3u8
+#EXTINF:-1,TV SPORT
+http://188.93.94.42/tvsport/index.m3u8
+#EXTINF:-1,UNIVERSE HD CHANNEL
+http://188.93.94.42/universehd/index.m3u8
+#EXTINF:-1,TVMAX
+http://188.93.94.42/tvmax/index.m3u8
+#EXTINF:-1,VIP TV
+http://188.93.94.42/viptv/index.m3u8
+#EXTINF:-1,GGTV
+http://188.93.94.42/ggtv/index.m3u8
+#EXTINF:-1,MED TV
+http://188.93.94.42/medtv/index.m3u8
+#EXTINF:-1,AG TV
+http://188.93.94.42/agtv/index.m3u8
+#EXTINF:-1,DIA TV
+http://188.93.94.42/diatv/index.m3u8
+#EXTINF:-1,XARISXIS ARXI
+http://188.93.94.42/drotv/index.m3u8
+#EXTINF:-1,ETALON TV
+http://188.93.94.42/etalontv/index.m3u8
+#EXTINF:-1,VINYL TY
+http://188.93.94.42/viniltv/mono.m3u8
+#EXTINF:-1,Palitra tv
+http://livestream.Palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1,setanta georgia 1  HD
+http://85.118.114.122:8169/udp/226.0.0.32:12345
+#EXTINF:-1,setanta georgia 2 HD
+http://85.118.114.122:8169/udp/226.0.0.33:12345
+#EXTINF:-1,HI tv
+http://85.118.114.122:8169/udp/226.0.0.56:12345
+#EXTINF:-1,music box
+http://85.118.114.122:8169/udp/226.0.0.111:12345
+#EXTINF:-1,qartli arxi
+http://85.118.114.122:8169/udp/226.0.0.129:12345
+#EXTINF:-1,MARAO HD
+http://85.118.114.122:8169/udp/226.0.0.4:12345
+#EXTINF:-1,1 gasartobi
+http://85.118.114.122:8169/udp/226.0.0.130:12345
+#EXTINF:-1,HD kino HD
+http://85.118.114.122:8169/udp/226.0.0.58:12345
+#EXTINF:-1,Silk Kino Boliwood
+http://94.43.239.178:8080/QTOKEN8E62B0F419F65ED993FE1C3A2101F23F/CHANNEL534/BITRATE1/playlist.m3u8
+#EXTINF:-1,Silk Kolectia
+http://94.43.239.178:8080/QTOKEN8E62B0F419F65ED993FE1C3A2101F23F/CHANNEL596/BITRATE1/playlist.m3u8
+#EXTINF:-1,Silk Documental
+http://94.43.239.178:8080/QTOKEN8E62B0F419F65ED993FE1C3A2101F23F/CHANNEL752/BITRATE1/playlist.m3u8
+#EXTINF:-1,Silk Kids
+http://94.43.239.178:8080/QTOKEN8E62B0F419F65ED993FE1C3A2101F23F/CHANNEL533/BITRATE1/playlist.m3u8
+#EXTINF:-1,Silk sport1
+http://94.43.239.178:8080/QTOKEN8E62B0F419F65ED993FE1C3A2101F23F/CHANNEL527/BITRATE1/playlist.m3u8
+#EX
