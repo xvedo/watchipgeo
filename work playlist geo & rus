@@ -21,8 +21,7 @@ http://85.118.114.122:8169/udp/226.0.0.131:12345
 http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
 #EXTINF:-1,360
 http://now2.eaglecdn.com/stream/360tv_360media/index.m3u8
-#EXTINF:-1,43 HD
-http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+
 #EXTINF:-1,CITY TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
 #EXTINF:-1,DW
@@ -49,8 +48,7 @@ http://81.30.182.82:18092/hls/live.m3u8
 http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1,Music Box 
 http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
-#EXTINF:-1,Music Box UA
-http://212.26.132.86/hls/mb_ua_2500.m3u8
+
 #EXTINF:-1,MUZZONE
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 #EXTINF:-1,NRJ HITS
@@ -87,17 +85,26 @@ http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v3a1/index.m3u8
 #EXTINF:0,24 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
 #EXTINF:0,ACB TV
 http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
-#EXTINF:0,Animal Planet
-http://hlstv.nsk.211.ru/239.211.211.34/stream.m3u8
-#EXTINF:0,Food Network
-http://ott-cdn.ucom.am/s18/04.m3u8
-#EXTINF:0,Discovery Channel
-http://83.234.104.142/discoverychannel/tracks-v1a1/index.m3u8
-#EXTINF:0,Nat Geo
-http://83.234.104.142/natgeo/tracks-v1a1/index.m3u8
-#EXTINF:0,Paramount Comedy
-http://hlstv.nsk.211.ru/239.211.211.73/stream.m3u8
-SONY TV (RUS)
-http:\\c0.cdn.trinity-tv.net\stream\wdgprq87xggsp5t3y8grw6vj4wdef4vh5nfs3ipuasxmr2etcf974wcmfsp9eiuuayiku9vkjxvna4vq3as6b798i62n6t2khg3sj53hfyfcsf9cvsvsij6rh4kg9g77zm4j3jzj3a6bpmeaw7czgks=.m3u8
-VIP COMEDY
-http:\\c0.cdn.trinity-tv.net\stream\ta7g2m5q2t5jn9mdf4kis2pkz6uqifcvxm6hup8jeiqi8djw9uwc674h68mtuy7gvb6y4zd87pqkuyjag56q4fzja48ysyqjw6ysehjxnzah37irik3y24kzb3u4yf26zxuua3kqvmnxhd9bwkbug===.m3u8
+#EXTINF:-1,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,Kronehit HD
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+#EXTINF:-1,Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1,Publika TV (Mold)
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1,Боец
+http://serv25.vintera.tv:8081/sport/boets1e/playlist.m3u8
+#EXTINF:-1,Бокс ТВ
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/smil:boxingtvru.smil/playlist.m3u8
+#EXTINF:-1,КиноМеню HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1,Крым 1 HD
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:-1,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир +4
+#EXTINF:-1,НАШЕ ТВ
+http://nashetv01.hostingradio.ru:8081/hls/nashetv/nashelive.m3u8
+#EXTINF:-1,НТВ
+http://31.185.0.24:8080/udp/239.195.32.7:1234
