@@ -21,7 +21,6 @@ http://85.118.114.122:8169/udp/226.0.0.131:12345
 http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
 #EXTINF:-1,360
 http://now2.eaglecdn.com/stream/360tv_360media/index.m3u8
-
 #EXTINF:-1,CITY TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
 #EXTINF:-1,DW
@@ -48,7 +47,6 @@ http://81.30.182.82:18092/hls/live.m3u8
 http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1,Music Box 
 http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
-
 #EXTINF:-1,MUZZONE
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 #EXTINF:-1,NRJ HITS
@@ -107,4 +105,31 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,НАШЕ ТВ
 http://nashetv01.hostingradio.ru:8081/hls/nashetv/nashelive.m3u8
 #EXTINF:-1,НТВ
-http://31.185.0.24:8080/udp/239.195.32.7:1234
+#EXTINF:-1,КиноМеню HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1,Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+#EXTINF:0,08 КАРУСЕЛЬ
+http://37.235.139.207:81/udp/225.50.66.5:1234
+#EXTINF:0,Boomerang
+http://91.149.172.100:80/channel?id=119&u=demo&p=demo
+#EXTINF:0,Cartoon Network
+http://83.246.145.27:81/udp/239.54.6.57:1224
+#EXTINF:0,Detskiy mir
+http://109.171.12.52:81/udp/239.54.5.97:1224
+#EXTINF:0,Disney Channel
+http://188.134.9.192:81/udp/235.10.10.4:1234
+
+
+
+
+
+
+
+
+
+
+
+
