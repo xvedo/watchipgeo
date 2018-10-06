@@ -121,15 +121,39 @@ http://83.246.145.27:81/udp/239.54.6.57:1224
 http://109.171.12.52:81/udp/239.54.5.97:1224
 #EXTINF:0,Disney Channel
 http://188.134.9.192:81/udp/235.10.10.4:1234
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Nat Geo Wild HD
+http://193.187.82.5:9999/natgeowildhd
+#EXTINF:0,Охотник и рыболов HD
+http://ott-cdn.ucom.am/s62/index.m3u8
+#EXTINF:-1,Paramount Comedy
+http://c0.cdn.trinity-tv.net/stream/7y4yfpydd8yk6kuxzjy978txdfp7tnxfiuw5x6yea4m9panzgnik598rtu2vz4f2uurw3wbhdkmdpi5uqmqtrpfrx2bxhy2cjidbrjueh34i966zhpi6r28ccn8gwp4i2wkzaiqsiefc4bpznm8mp4dr.m3u8
+EXTINF:-1,Star Cinema HD
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
+#EXTINF:-1,Bollywood HD
+http://c0.cdn.trinity-tv.net/stream/mm8e7f9sfy6wn5rgz7sgswnq78gnswc737xxbvhp9n4r7zr8xanx35wukj6c5nwuprayu2td7v69dvxerirrue9r5qnx8pz7hhhc47wf8nyhqd3psbneqcdzbheuw7zityypj4vkuzq7tynfattczm2q.m3u8
+#EXTINF:-1,KINO 1
+http://hls.trinity-tv.net/stream/pm5rrd692eivqe94sc2zu2nkqvxbigjvv6bk4x6sbjd4fh8e9k7nnpjfad9xc3un27hp5t9gewmwsvzepixh69e3tdfkwxpv3sna7g49wwxdsmxq4ge659ki8cvjwbdyrxfhhgprhnjee29zp284t7wg.m3u8
+#EXTINF:-1,VHS
+http://mnogo-tv.com:7789/tv/VHSTV/index.m3u8
+#EXTINF:-1,TV XXI
+http://c0.cdn.trinity-tv.net/stream/46gqmb78ybhbm8jrjwgdjwesfys9p3ju6rskbk85ph9d2wu29nhs3d27vnbaqccunkhg58fej7fqieb5pq82mcgszz4wir234gqjnzqvr9fq96itbzb3zg9tw92a94d5ukkwndjpsnrtt9apbsci723f.m3u8
+#EXTINF:-1,Kino 24
+http://82.193.71.93/Kino24LV/video.m3u8
+#EXTINF:-1,Еврокино
+http://c0.cdn.trinity-tv.net/stream/x9cmf8n9da5a4ytjwtrev2377hb84uani6apts7na598q7szeg6ha6kfypcpk5kp5sjsndjnhpadchca48wfzdfguu79msfp743ykfygwvyr3uf4ib4nbzbngrqzgw94tjpg2g7jjrd9exui8xennda=.m3u8
+#EXTINF:-1,Иллюзион +
+http://serv30.vintera.tv:8081/AXs0rHDOwAjgHAyI/illuzionplus_aa/chunklist.m3u8
+#EXTINF:-1,SONY Channel
+http://c0.cdn.trinity-tv.net/stream/wdgprq87xggsp5t3y8grw6vj4wdef4vh5nfs3ipuasxmr2etcf974wcmfsp9eiuuayiku9vkjxvna4vq3as6b798i62n6t2khg3sj53hfyfcsf9cvsvsij6rh4kg9g77zm4j3jzj3a6bpmeaw7czgks=.m3u8
+#EXTINF:-1,Киномикс
+http://c0.cdn.trinity-tv.net/stream/yq6ie7qbqthm9pux76d6zixpaxupz998t2yi3zwirjvsfb5gyf6w22jcfd2rfgwcpf3xf8simd6ap5kd2ewpbs7kk2r6yks4ayw9b9m2t67msgnekcsgmbit59zxqaieayps9m6xdxd7mqya7vv62m6e.m3u8
+#EXTINF:-1,Матч! Боец
+http://217.182.201.48:8081/tss/boets-22297/playlist.m3u8
+#EXTINF:-1,Малятко ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,ТНТ
+http://217.182.201.48:8081/tss/tnt-n/playlist.m3u8
+#EXTINF:0,ТНТ HD
+http://193.187.82.5:9999/tnthd
